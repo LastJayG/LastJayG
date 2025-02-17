@@ -1,4 +1,4 @@
-# About Me:
+# Info:
 It's Evgeniya.<br>.NET, C#, Python...<br>While you are reading this, I am working on web projects (ﾉಥ益ಥ)ﾉ
 
 
