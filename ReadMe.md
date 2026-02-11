@@ -7,7 +7,9 @@
 </a>
 
 # Info:
-It's Evgeniya.<br>C#, ASP.NET developer.<br>While you're reading this, I'm working on web projects (ﾉಥ益ಥ)ﾉ
+It's Evgeniya.<br>
+C#, ASP.NET + React developer.<br>
+While you're reading this, I'm working on web projects (ﾉಥ益ಥ)ﾉ
 
 
 # Tech Stack:
